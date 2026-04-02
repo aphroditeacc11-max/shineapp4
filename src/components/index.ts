@@ -1,5 +1,2 @@
-// This index file exports all project-specific components
-// It is intended to be updated by the automated scaffolder service.
-// For now, it is a placeholder.
-
-export {};
+export { default as Navbar } from './Navbar';
+export { default as Hero } from './Hero';

@@ -9,20 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@cms-builder/core": "^1.0.2",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "@cms-builder/core": "1.0.0"
+    "react-dom": "latest"
   },
   "devDependencies": {
-    "typescript": "latest",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "postcss": "latest",
-    "tailwindcss": "latest",
     "autoprefixer": "latest",
     "eslint": "latest",
-    "eslint-config-next": "latest"
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
   }
 }
